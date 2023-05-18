@@ -1,0 +1,13 @@
+.showimg img{
+    width: 100%;
+    height: auto;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+    font-size: 32px;
+}
+.showimg{
+    width: 400px;
+    height: 400px;
+}
